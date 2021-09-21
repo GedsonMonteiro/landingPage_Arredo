@@ -1,10 +1,10 @@
-<center><img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="reactLogo" width="85" height="85">
+<p align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="reactLogo" width="85" height="85">
 
 <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1-1174935.png" alt="nodeLogo" width="85" height="85">
 
 <img src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" alt="css3Logo" width="85" height="85">
 
-</center><br>
+</p><br>
 
 # Arredo Landing Page
 
